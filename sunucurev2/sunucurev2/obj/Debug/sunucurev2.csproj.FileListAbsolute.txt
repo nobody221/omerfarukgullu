@@ -1,0 +1,10 @@
+C:\Users\ahmed\source\repos\sunucurev2\sunucurev2\bin\Debug\sunucurev2.exe.config
+C:\Users\ahmed\source\repos\sunucurev2\sunucurev2\bin\Debug\sunucurev2.exe
+C:\Users\ahmed\source\repos\sunucurev2\sunucurev2\bin\Debug\sunucurev2.pdb
+C:\Users\ahmed\source\repos\sunucurev2\sunucurev2\obj\Debug\sunucurev2.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\sunucurev2\sunucurev2\obj\Debug\sunucurev2.Form1.resources
+C:\Users\ahmed\source\repos\sunucurev2\sunucurev2\obj\Debug\sunucurev2.Properties.Resources.resources
+C:\Users\ahmed\source\repos\sunucurev2\sunucurev2\obj\Debug\sunucurev2.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\sunucurev2\sunucurev2\obj\Debug\sunucurev2.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\sunucurev2\sunucurev2\obj\Debug\sunucurev2.exe
+C:\Users\ahmed\source\repos\sunucurev2\sunucurev2\obj\Debug\sunucurev2.pdb
